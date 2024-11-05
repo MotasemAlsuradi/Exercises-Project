@@ -106,7 +106,7 @@ double numberOne = Convert.ToDouble(Console.ReadLine());
 
 
 Console.Write("Enter the operator (+, -, *, /): ");
-char op = Convert.ToChar(Console.Read()); 
+char op = Convert.ToChar(Console.ReadLine()); 
 
 Console.Write("Enter the second number: ");
 double numberTwo = Convert.ToDouble(Console.ReadLine());
